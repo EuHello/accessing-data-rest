@@ -6,7 +6,12 @@
 3. H2 Database
 
 
-## Build/Run
+### Pre-reqs
+- Java 17+
+- Maven 3.5+
+
+
+### Build/Run
 `./mvnw spring-boot:run`  
 
 
