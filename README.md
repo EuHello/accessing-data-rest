@@ -1,4 +1,5 @@
 ## Java - Restful access 
+Learn Java and Spring Boot restful end point
 
 ### Components
 1. Rest Repository (*CrudRepository, PagingAndSortingRepository*)
@@ -27,4 +28,4 @@ With 3 files, able to support following HTTP methods
 - DELETE
 
 
-Docs: https://spring.io/guides/gs/accessing-data-rest
+*Docs: https://spring.io/guides/gs/accessing-data-rest*
